@@ -1,9 +1,9 @@
-# naive-bayes
+# Text Classification with Naive Bayes
 Naive Bayes library in PHP
 
 <table>
   <tr>
-    <th>Sumber</th>
+    <th>Source</th>
     <td>https://www.youtube.com/watch?v=OQBcDujDke4</td>
   </tr>
 </table>
