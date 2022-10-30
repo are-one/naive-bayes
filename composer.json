@@ -1,0 +1,21 @@
+{
+    "name": "are-one/naive-bayes",
+    "description": "naive bayes library in PHP",
+    "type": "library",
+    "require": {
+        "sastrawi/sastrawi": "^1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AreOne\\NaiveBayes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arwan Prianto Mangidi",
+            "email": "arwanpriantomangidi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
