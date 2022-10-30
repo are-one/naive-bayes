@@ -1,6 +1,6 @@
 {
     "name": "are-one/naive-bayes",
-    "description": "naive bayes library in PHP",
+    "description": "Text Classification With Naive Bayes Classifier in PHP",
     "type": "library",
     "require": {
         "sastrawi/sastrawi": "^1.2"

@@ -2,11 +2,11 @@
 // =======================
 // Created By Arwan Prianto Mangidi - Are One
 // =======================
-namespace AreOne\NaiveBayes;
+namespace AreOne\TextClassification;
 
 use Exception;
 
-class NaiveBayes
+class NaiveBayesClassifier
 {
     /**
      * @property $statements array
