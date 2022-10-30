@@ -1,5 +1,6 @@
 # Text Classification with Naive Bayes
-Naive Bayes library in PHP
+
+Text Classification with Naive Bayes Classifier library in PHP
 
 <table>
   <tr>
